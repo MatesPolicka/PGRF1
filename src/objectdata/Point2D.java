@@ -1,2 +1,4 @@
-package objectdata;public class Point2D {
+package objectdata;
+
+public class Point2D {
 }
